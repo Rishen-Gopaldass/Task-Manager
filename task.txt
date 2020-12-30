@@ -1,7 +1,0 @@
-Task owner:               	aerthg
-Task Tile:                    	aeth
-Task Description:      	aeth
-Task Created Date:   	aethg
-Task Deadline:           	aeth
-Task Completed:       	ae
-
